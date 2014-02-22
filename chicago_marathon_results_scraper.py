@@ -38,7 +38,7 @@ parser.add_argument(
   "-n",
   type=int,
   default=25,
-  help="Number of results per page load. Default is 25.", 
+  help="Number of results per page load. Default is 25. Can be one of {25, 50, 100, 500, 1000}", 
   dest="num_results"
 )
 parser.add_argument(
