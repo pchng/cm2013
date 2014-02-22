@@ -1,7 +1,7 @@
 2013 Chicago Marathon Results
 =============================
 
-This consists of two parts: A python-based scraper to grab the [results](http://results.chicagomarathon.com/2013/) into CSV format, and an IPython Notebook used to analyze the results using the venerable [pandas](http://pandas.pydata.org/) data analysis library.
+This consists of two parts: A python-based scraper to grab the [results](http://results.chicagomarathon.com/2013/) into CSV format, and an [IPython Notebook](http://nbviewer.ipython.org/github/pchng/cm2013/blob/master/2013%20Chicago%20Marathon%20Analysis.ipynb) used to analyze the results using the venerable [pandas](http://pandas.pydata.org/) data analysis library.
 
 The scraper can also work with past years, not just 2013, but I have not tested it out.
 
